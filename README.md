@@ -44,5 +44,4 @@ This repository is a comprehensive guide to using **Pandas**, the powerful Pytho
 To run these notebooks on your local machine:  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/pandas-complete-guide.git
-   cd pandas-complete-guide
+   git clone https://github.com/computingWithIrfan/pandas-masterclass
