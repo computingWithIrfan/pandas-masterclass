@@ -1,5 +1,8 @@
 # pandas-masterclass 🐼  
 
+![Pandas Masterclass](img/pandas.jpg)
+
+
 ## Overview  
 This repository is a comprehensive guide to using **Pandas**, the powerful Python library for data manipulation and analysis. It contains step-by-step Jupyter notebooks that cover everything from installation to advanced data operations.  
 
