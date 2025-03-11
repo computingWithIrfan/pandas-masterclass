@@ -1,6 +1,9 @@
 # pandas-masterclass 🐼  
 
-![Pandas Masterclass](img/pandas.jpg)
+<p align ="center">
+  <img src="img/pandas.jpg" width="400" height="300">
+</p>
+
 
 
 ## Overview  
