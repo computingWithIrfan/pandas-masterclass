@@ -1,7 +1,7 @@
 # pandas-masterclass 🐼  
 
 <p align ="center">
-  <img src="img/pandas.jpg" width="400" height="300">
+  <img src="img/pandas.jpg" width="450" height="300">
 </p>
 
 
